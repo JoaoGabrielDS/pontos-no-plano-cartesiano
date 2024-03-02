@@ -1,4 +1,4 @@
-# Projeto Pontos Pontuações📜
+# Projeto Pontos📜
 
 ## Problema a Ser Resolvido ☕️
 • Crie um TDA para a representação de um ponto no plano cartesiano. O ponto será
